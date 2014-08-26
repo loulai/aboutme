@@ -28,6 +28,8 @@ Here are some projects I've worked on.
 
 View [all other projects].
 
+Click [here] for contact details.
+
 [all other projects]:https://github.com/loulai?tab=repositories
 [here]:https://www.linkedin.com/in/louiselai88/
 [unipop]:https://github.com/StephanMusgrave/unipop
