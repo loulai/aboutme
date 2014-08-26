@@ -24,11 +24,12 @@ Here are some projects I've worked on.
 |[unipop]| Connecting student buyers & sellers efficiently and beautifully. This is my biggest project so far, made with a seven-man team over two weeks.|
 |[Lougram]| A simpler replica of instagram |
 |[Follow the Food]| My own for-fun food blog, created using Rails. *(Work in progress)* |
+|[Learning Java]| Simple projects that help me learn Java|
 
 
 View [all other projects].
 
-Click [here] for contact details, and I'll reply within two days.
+Click [here] for contact details, and I will aim to reply within the same day.
 
 [all other projects]:https://github.com/loulai?tab=repositories
 [here]:https://www.linkedin.com/in/louiselai88/
