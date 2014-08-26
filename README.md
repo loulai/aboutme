@@ -1,11 +1,11 @@
-About me
+About Me
 ===
 
-Hi, I'm Lou. 
+Hi, my name is Lou. 
 
-I'm a freshman studying [Computer Science] and [Business] at New York University.
+I'm an undergraduate student studying Computer Science and Business at New York University.
 
-I'm most familliar with Ruby and its MVC, Rails. I've also worked with JavaScript and am studying Java & Python.
+I am most familliar with Ruby and its MVC, Rails. I've also worked with JavaScript and am studying Java & Python.
 
 New technology, iOS development and e-commerce particularly interest me.
 
@@ -21,26 +21,16 @@ Here are some projects I've worked on.
 
 |Project| About |
 |--------|--------|
-|unipop| Connecting student buyers & sellers efficiently and beautifully. This is my biggest project so far, made with a seven-man team over two weeks.|
-|Lougram| A simpler replica of instagram |
-|Food Passport| My own for-fun food blog, created using Rails.|
+|[unipop]| Connecting student buyers & sellers efficiently and beautifully. This is my biggest project so far, made with a seven-man team over two weeks.|
+|[Lougram]| A simpler replica of instagram |
+|[Follow the Food]| My own for-fun food blog, created using Rails. *Work in progress* |
 
 
 View [all other projects].
 
-
-week one: Basics of programming
-week two: fizz buzz (rspec), takeaway (object oriented, twilio)
-week three: sudoku (recursion)
-week four:
-
-Rock paper scissorts spock (sinatra)
-
-Lougram (Rails, Bootstrap)
-
-[Computer Science]: http://cs.nyu.edu/webapps/content/academic/undergrad/overview
-[Business]:http://www.stern.nyu.edu/programs-admissions/undergraduate/academics/business-political-economy-degree-program/bpe-curriculum-overview
 [all other projects]:https://github.com/loulai?tab=repositories
 [here]:https://www.linkedin.com/in/louiselai88/
+[unipop]:https://github.com/StephanMusgrave/unipop
+[Lougram]:https://github.com/loulai/Creating_Instagram
 [haptic technology]:http://
 [wearbles]:http://
