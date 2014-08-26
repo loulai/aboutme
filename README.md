@@ -28,7 +28,7 @@ Here are some projects I've worked on.
 
 View [all other projects].
 
-Click [here] for contact details. I'll always reply within two days.
+Click [here] for contact details, and I'll reply within two days.
 
 [all other projects]:https://github.com/loulai?tab=repositories
 [here]:https://www.linkedin.com/in/louiselai88/
