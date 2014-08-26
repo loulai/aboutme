@@ -19,7 +19,7 @@ Projects
 
 Here are some projects I've worked on.
 
-|Project| About |
+|    Project    | About |
 |--------|--------|
 |[unipop]| Connecting student buyers & sellers efficiently and beautifully. This is my biggest project so far, made with a seven-man team over two weeks.|
 |[Lougram]| A simpler replica of instagram |
