@@ -21,11 +21,11 @@ Here are some projects I've worked on.
 
 |    Project    | About |
 |--------|--------|
-|[unipop]| Connecting student buyers & sellers efficiently and beautifully. This is my biggest project so far, made with a seven-man team over two weeks.|
-|[Lougram]| A simpler replica of instagram, focusing on developing both front end and back end. It was the first time I used Bootstrap. |
-|[Purr] | This allows you to stroke your keyboard and it will purr like a cat. Written in my second week of learning to code. |
+|[unipop]| Connecting student buyers & sellers efficiently and beautifully. This is my biggest Rails project so far, made with a seven-man team over two weeks.|
+|[Lougram]| A general replica of instagram, built from-scratch using Rails. This is the first time I used Bootstrap. |
+|[Purr] | Through the terminal, this program allows you to stroke your keyboard and it will purr like a cat. Written in my second week of learning to code. |
 |[Self-taught Java]| Simple projects and code I played around with when learning Java. |
-|[Computer Science 101] | This is where I post my fortnightly university projects, and general daily Java things. |
+|[Computer Science 101] | This is where I post my fortnightly university projects, and other daily Java things. |
 
 View [all other projects].
 
