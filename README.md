@@ -3,13 +3,13 @@ About Me
 
 Hi, my name is Lou. 
 
-I'm an undergraduate student studying Computer Science and Business at New York University.
+I'm an undergraduate student double majoring in Computer Science and Business at New York University.
 
-I am most familliar with Ruby and its MVC, Rails. I've also worked with JavaScript and am studying Java & Python.
+I am most familliar with Ruby, and have created several project using Ruby on Rails. I'm also currently coding with Java in my NYU classes. I've worked with JavaScript, Bootstrap and HTML & CSS. 
 
-New technology, iOS development and e-commerce particularly interest me.
+Wearable technology, iOS development and entrepreneurship particularly interest me.
 
-I love working with people that are passionate about what they do, and I'm willing to give anything an enthusiastic try. 
+I love working with people that are passionate about what they do, and I'm willing to give anything an enthusiastic try.
 
 Check out my other experience contact information [here].
 
@@ -22,10 +22,10 @@ Here are some projects I've worked on.
 |    Project    | About |
 |--------|--------|
 |[unipop]| Connecting student buyers & sellers efficiently and beautifully. This is my biggest project so far, made with a seven-man team over two weeks.|
-|[Lougram]| A simpler replica of instagram |
-|[Follow the Food]| My own for-fun food blog, created using Rails (work in progress).|
-|[Learning Java]| Simple projects that help me learn Java|
-
+|[Lougram]| A simpler replica of instagram, focusing on developing both front end and back end. It was the first time I used Bootstrap. |
+|[Purr] | This allows you to stroke your keyboard and it will purr like a cat. This program was written in my second week of learning to code. |
+|[Self-taught Java]| Simple projects and workspace resulting used to teach myself Java |
+|[NYU Computer Science 101] | This is where I post my fortnightly class projects. |
 
 View [all other projects].
 
@@ -35,7 +35,11 @@ Click [here] for contact details, and I will aim to reply within the same day.
 [here]:https://www.linkedin.com/in/louiselai88/
 [unipop]:https://github.com/StephanMusgrave/unipop
 [Lougram]:https://github.com/loulai/Creating_Instagram
+[Purr]: https://github.com/loulai/Purr
 [Follow the Food]:https://github.com/loulai/follow_the_food
-[Learning Java]:https://github.com/loulai/learning_java
+[Self-taught Java]:https://github.com/loulai/learning_java
+[NYU Computer Science 101]:https://github.com/loulai/nyuJava
 [haptic technology]:http://
 [wearbles]:http://
+
+<!--|[Follow the Food]| My own for-fun food blog, created using Rails (work in progress).|
