@@ -23,9 +23,9 @@ Here are some projects I've worked on.
 |--------|--------|
 |[unipop]| Connecting student buyers & sellers efficiently and beautifully. This is my biggest project so far, made with a seven-man team over two weeks.|
 |[Lougram]| A simpler replica of instagram, focusing on developing both front end and back end. It was the first time I used Bootstrap. |
-|[Purr] | This allows you to stroke your keyboard and it will purr like a cat. This program was written in my second week of learning to code. |
-|[Self-taught Java]| Simple projects and workspace resulting used to teach myself Java |
-|[Computer Science 101] | This is where I post my fortnightly university projects. |
+|[Purr] | This allows you to stroke your keyboard and it will purr like a cat. Written in my second week of learning to code. |
+|[Self-taught Java]| Simple projects and code I played around with when learning Java. |
+|[Computer Science 101] | This is where I post my fortnightly university projects, and general daily Java things. |
 
 View [all other projects].
 
