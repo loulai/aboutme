@@ -7,12 +7,9 @@ I'm an undergraduate student double majoring in Computer Science and Business at
 
 I am most familliar with Ruby, and have created several projects using Ruby on Rails, all of which are test driven with both RSpec and Cucumber. I'm currently coding with Java in my university classes. I've worked with HTML & CSS, Bootstrap and JavaScript. 
 
-Wearable technology, iOS development and entrepreneurship particularly interest me.
-
-I love working with people that are passionate about what they do, and I'm willing to give anything an enthusiastic try.
+I love working with people that are passionate about what they do, and I'm willing to give anything an enthusiastic try. Wearable technology, iOS development and entrepreneurship particularly interest me.
 
 Check out my other experience contact information [here].
-
 
 Projects
 ===
