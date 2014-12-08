@@ -5,7 +5,7 @@ Hi, my name is Lou.
 
 I'm an undergraduate student double majoring in Computer Science and Business at New York University.
 
-I am most familliar with Ruby, and have created several projects using Ruby on Rails. I'm currently coding with Java in my university classes. I've worked with HTML & CSS, Bootstrap and JavaScript. 
+I am most familliar with Ruby, and have created several projects using Ruby on Rails, all of which are test driven with both RSpec and Cucumber. I'm currently coding with Java in my university classes. I've worked with HTML & CSS, Bootstrap and JavaScript. 
 
 Wearable technology, iOS development and entrepreneurship particularly interest me.
 
