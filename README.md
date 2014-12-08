@@ -26,7 +26,7 @@ Click to see some projects I've worked on.
 |[Purr] | Through the terminal, this program allows you to stroke your keyboard and it will purr like a cat. Written in my second week of learning to code. |
 |[Self-taught Java]| Simple projects and code I played around with when learning Java. |
 |[Computer Science 101] | This is where I post my fortnightly university projects, and other mini Java projects.|
-|[Ruby Test]| A set of problems that needed to be solved to test my proficiency with Ruby. This was done nine weeks into learning how to code |
+|[Ruby Test]| A set of problems that needed to be solved to test my proficiency with Ruby. This was done nine weeks into learning how to code. |
 
 View [all other projects].
 
